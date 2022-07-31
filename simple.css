@@ -1,0 +1,53 @@
+*{
+				 box-sizing: border-box;
+}
+
+body { 
+				font-family: Arial, 'helvetica', sans-serif ;
+				
+}
+
+/* -----------------headr------------- */
+
+
+.hd{
+				padding:30px ;
+				text-align: center;
+				background-color: #666;
+				font-size: 35px;
+				color: white;
+				margin: auto;
+}
+
+.nav-link{
+				
+				width: auto;
+				height: 400%;
+				background-color: #ccc;
+				padding: 30px;
+}
+.under{
+				list-style-type: none;
+				padding: 0px;
+		     selector: pseudo-class;
+	     color: red;
+	     position: relative;
+	     
+}
+
+
+.stage{
+				text-align: auto;
+				padding: 10px;
+				width: none;
+				background-color:#f1f1f1;
+				margin: auto;
+				position: relative;
+}
+
+.femo{
+				text-align: center;
+				background-color: #777;
+				color: white;
+				padding: 10px;
+}
